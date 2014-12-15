@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DisplayScore.cs">
+    <Files>
+      <File FileName="Assets/Animation/MenuPause.js" Line="242" Column="16" />
+      <File FileName="Assets/Scripts/GunMoveMent.js" Line="33" Column="2" />
+      <File FileName="Assets/Scripts/LoadOnClick.cs" Line="15" Column="30" />
+      <File FileName="Assets/Scripts/Player/Crosshair_Script.js" Line="10" Column="40" />
+      <File FileName="Assets/Scripts/DisplayScore.cs" Line="25" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
